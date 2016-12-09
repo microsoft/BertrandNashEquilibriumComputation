@@ -1,0 +1,13 @@
+2
+0.023
+0.010
+
+3
+sadra 1
+sadra1 0.2 0.4
+
+sina 1
+sina1 0.1 0.1
+
+vijay 1
+vijay1 0.4 0.5

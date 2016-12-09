@@ -1,0 +1,5 @@
+presicion: 1e-10
+max_price: 10000.0
+loop_limit: 1000
+convergence_limit: 1e-6
+mix_parameter: 0.1
