@@ -31,11 +31,11 @@ If the market has no fixed cost associated to sellers in the market
 then function read(filedaddress) has to be used. The file containing the market
 must have the following format:
 
-#price_sensensitivity_parameters
+##price_sensensitivity_parameters
 
 price_sensitivity_1 price_sensitivity_2 ...
 
-#sellers
+##sellers
 
 Seller_1_id #items_of_seller_1
 
